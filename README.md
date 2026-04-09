@@ -7,9 +7,9 @@
 
 | Главный экран | Запрос разрешения | Статус выдан |
 |:---:|:---:|:---:|
-| ![Main screen](screenshots/MainScreen.png) | ![Request dialog](screenshots/RequestScreen.png) | ![Granted](screenshots/GrantedScreen.png) |
+| ![Main screen](Screenshots/MainScreen.png) | ![Request dialog](Screenshots/RequestScreen.png) | ![Granted](Screenshots/GrantedScreen.png) |
 | Статус отклонен | Локализация | Темная тема |
-| ![Denied](screenshots/DeniedScreen.png) | ![Localization](screenshots/Localization.png) | ![Dark theme](screenshots/DarkTheme.png) |
+| ![Denied](Screenshots/DeniedScreen.png) | ![Localization](Screenshots/Localization.png) | ![Dark theme](Screenshots/DarkTheme.png) |
 
 ---
 
@@ -102,7 +102,7 @@ python revoke_permissions.py --list --device emulator-5554
 
 ### Пример вывода
 
-![ADB script output](screenshots/AdbScript.png)
+![ADB script output](Screenshots/AdbScript.png)
 
 ```
     adb: C:\...\platform-tools\adb.exe
