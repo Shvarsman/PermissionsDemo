@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Демонстрация разрешений</string>
+    <string name="topbar_title">Runtime-разрешения</string>
+    <string name="perm_camera_label">Камера</string>
+    <string name="perm_camera_desc">Съёмка фото и видео</string>
+    <string name="perm_contacts_label">Контакты</string>
+    <string name="perm_contacts_desc">Чтение контактов устройства</string>
+    <string name="perm_location_label">Геолокация</string>
+    <string name="perm_location_desc">Доступ к местоположению устройства</string>
+
+    <string name="status_granted">ВЫДАНО</string>
+    <string name="status_denied">ОТКЛОНЕНО</string>
+    <string name="status_unknown">НЕИЗВЕСТНО</string>
+
+    <string name="btn_request">Запросить</string>
+    <string name="btn_already_granted">Выдано</string>
+    <string name="btn_request_all">Запросить все</string>
+    <string name="btn_open_settings">Открыть настройки</string>
+
+    <string name="summary_granted">Выдано</string>
+    <string name="summary_denied">Отклонено</string>
+    <string name="summary_unknown">Неизвестно</string>
+</resources>

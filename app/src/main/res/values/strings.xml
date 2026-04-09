@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Permissions Demo</string>
+    <string name="topbar_title">Runtime Permissions</string>
+    <string name="perm_camera_label">Camera</string>
+    <string name="perm_camera_desc">Take photos and videos</string>
+    <string name="perm_contacts_label">Contacts</string>
+    <string name="perm_contacts_desc">Read device contacts</string>
+    <string name="perm_location_label">Location</string>
+    <string name="perm_location_desc">Access device location</string>
+
+    <string name="status_granted">GRANTED</string>
+    <string name="status_denied">DENIED</string>
+    <string name="status_unknown">UNKNOWN</string>
+
+    <string name="btn_request">Request</string>
+    <string name="btn_already_granted">Granted</string>
+    <string name="btn_request_all">Request all</string>
+    <string name="btn_open_settings">Open app settings</string>
+
+    <string name="summary_granted">Granted</string>
+    <string name="summary_denied">Denied</string>
+    <string name="summary_unknown">Unknown</string>
+</resources>
